@@ -39,12 +39,8 @@ A classificação do ambiente é realizada por regras implementadas no microcont
 
 Link Wokwi: https://wokwi.com/projects/465773476124973057
 
-Link Wokwi: https://wokwi.com/projects/465773476124973057
-
 Link Edge Impulse: https://studio.edgeimpulse.com/studio/1023664
 
 Link Video:https://youtu.be/-ISq23BoVc4?si=nV2POw0CEAPHhw23
 
 Link Edge Impulse: https://studio.edgeimpulse.com/studio/1023664
-
-Arquivo de Inferencia:
